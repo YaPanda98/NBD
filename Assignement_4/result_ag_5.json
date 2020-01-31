@@ -1,0 +1,746 @@
+MongoDB shell version v4.2.2
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("33fe23f3-354a-484b-bf66-8a8a50d69eae") }
+MongoDB server version: 4.2.2
+[
+	{
+		"_id" : "AED",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "AFN",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "ALL",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "AMD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "ANG",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "AOA",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "ARS",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "AUD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "AWG",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "AZN",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "BAM",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "BDT",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "BGN",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "BHD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "BIF",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "BOB",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "BRL",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "BSD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "BTN",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "BWP",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "BYR",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "BZD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "CAD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "CDF",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "CHF",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "CLP",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "CNY",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "COP",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "CRC",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "CUP",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "CVE",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "CZK",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "DJF",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "DKK",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "DOP",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "DZD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "EGP",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "ERN",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "ETB",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "EUR",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "FJD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "FKP",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "GBP",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "GEL",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "GHS",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "GMD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "GNF",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "GTQ",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "HKD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "HNL",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "HRK",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "HTG",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "HUF",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "IDR",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "ILS",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "INR",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "IQD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "IRR",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "ISK",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "JMD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "JOD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "JPY",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "KES",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "KGS",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "KHR",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "KMF",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "KPW",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "KRW",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "KWD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "KYD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "KZT",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "LAK",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "LBP",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "LKR",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "LRD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "LSL",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "LTL",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "LYD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "MAD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "MDL",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "MGA",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "MKD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "MMK",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "MNT",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "MRO",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "MUR",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "MVR",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "MWK",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "MXN",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "MYR",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "MZN",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "NAD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "NGN",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "NIO",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "NOK",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "NPR",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "NZD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "OMR",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "PAB",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "PEN",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "PGK",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "PHP",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "PKR",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "PLN",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "PYG",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "QAR",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "RON",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "RSD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "RUB",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "RWF",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "SAR",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "SBD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "SCR",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "SDG",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "SEK",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "SGD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "SLL",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "SOS",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "SRD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "SSP",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "SYP",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "SZL",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "THB",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "TJS",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "TMT",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "TND",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "TOP",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "TRY",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "TTD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "TWD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "TZS",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "UAH",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "UGX",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "USD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "UYU",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "UZS",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "VEF",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "VND",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "VUV",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "WST",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "XAF",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "XCD",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "XOF",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "XPF",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "YER",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "ZAR",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "ZMW",
+		"avgBalance" : null,
+		"total" : 0
+	},
+	{
+		"_id" : "ZWL",
+		"avgBalance" : null,
+		"total" : 0
+	}
+]

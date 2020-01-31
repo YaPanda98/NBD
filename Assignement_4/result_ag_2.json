@@ -1,0 +1,622 @@
+MongoDB shell version v4.2.2
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("4730184e-3604-4168-a987-e0c12b396d9a") }
+MongoDB server version: 4.2.2
+[
+	{
+		"_id" : "AED",
+		"total" : 0
+	},
+	{
+		"_id" : "AFN",
+		"total" : 0
+	},
+	{
+		"_id" : "ALL",
+		"total" : 0
+	},
+	{
+		"_id" : "AMD",
+		"total" : 0
+	},
+	{
+		"_id" : "ANG",
+		"total" : 0
+	},
+	{
+		"_id" : "AOA",
+		"total" : 0
+	},
+	{
+		"_id" : "ARS",
+		"total" : 0
+	},
+	{
+		"_id" : "AUD",
+		"total" : 0
+	},
+	{
+		"_id" : "AWG",
+		"total" : 0
+	},
+	{
+		"_id" : "AZN",
+		"total" : 0
+	},
+	{
+		"_id" : "BAM",
+		"total" : 0
+	},
+	{
+		"_id" : "BBD",
+		"total" : 0
+	},
+	{
+		"_id" : "BDT",
+		"total" : 0
+	},
+	{
+		"_id" : "BGN",
+		"total" : 0
+	},
+	{
+		"_id" : "BHD",
+		"total" : 0
+	},
+	{
+		"_id" : "BIF",
+		"total" : 0
+	},
+	{
+		"_id" : "BMD",
+		"total" : 0
+	},
+	{
+		"_id" : "BND",
+		"total" : 0
+	},
+	{
+		"_id" : "BOB",
+		"total" : 0
+	},
+	{
+		"_id" : "BRL",
+		"total" : 0
+	},
+	{
+		"_id" : "BSD",
+		"total" : 0
+	},
+	{
+		"_id" : "BTN",
+		"total" : 0
+	},
+	{
+		"_id" : "BWP",
+		"total" : 0
+	},
+	{
+		"_id" : "BYR",
+		"total" : 0
+	},
+	{
+		"_id" : "BZD",
+		"total" : 0
+	},
+	{
+		"_id" : "CAD",
+		"total" : 0
+	},
+	{
+		"_id" : "CDF",
+		"total" : 0
+	},
+	{
+		"_id" : "CHF",
+		"total" : 0
+	},
+	{
+		"_id" : "CLP",
+		"total" : 0
+	},
+	{
+		"_id" : "CNY",
+		"total" : 0
+	},
+	{
+		"_id" : "COP",
+		"total" : 0
+	},
+	{
+		"_id" : "CRC",
+		"total" : 0
+	},
+	{
+		"_id" : "CUP",
+		"total" : 0
+	},
+	{
+		"_id" : "CVE",
+		"total" : 0
+	},
+	{
+		"_id" : "CZK",
+		"total" : 0
+	},
+	{
+		"_id" : "DJF",
+		"total" : 0
+	},
+	{
+		"_id" : "DKK",
+		"total" : 0
+	},
+	{
+		"_id" : "DOP",
+		"total" : 0
+	},
+	{
+		"_id" : "DZD",
+		"total" : 0
+	},
+	{
+		"_id" : "EGP",
+		"total" : 0
+	},
+	{
+		"_id" : "ERN",
+		"total" : 0
+	},
+	{
+		"_id" : "ETB",
+		"total" : 0
+	},
+	{
+		"_id" : "EUR",
+		"total" : 0
+	},
+	{
+		"_id" : "FJD",
+		"total" : 0
+	},
+	{
+		"_id" : "FKP",
+		"total" : 0
+	},
+	{
+		"_id" : "GBP",
+		"total" : 0
+	},
+	{
+		"_id" : "GEL",
+		"total" : 0
+	},
+	{
+		"_id" : "GHS",
+		"total" : 0
+	},
+	{
+		"_id" : "GMD",
+		"total" : 0
+	},
+	{
+		"_id" : "GNF",
+		"total" : 0
+	},
+	{
+		"_id" : "GTQ",
+		"total" : 0
+	},
+	{
+		"_id" : "GYD",
+		"total" : 0
+	},
+	{
+		"_id" : "HKD",
+		"total" : 0
+	},
+	{
+		"_id" : "HNL",
+		"total" : 0
+	},
+	{
+		"_id" : "HRK",
+		"total" : 0
+	},
+	{
+		"_id" : "HTG",
+		"total" : 0
+	},
+	{
+		"_id" : "HUF",
+		"total" : 0
+	},
+	{
+		"_id" : "IDR",
+		"total" : 0
+	},
+	{
+		"_id" : "ILS",
+		"total" : 0
+	},
+	{
+		"_id" : "INR",
+		"total" : 0
+	},
+	{
+		"_id" : "IQD",
+		"total" : 0
+	},
+	{
+		"_id" : "IRR",
+		"total" : 0
+	},
+	{
+		"_id" : "ISK",
+		"total" : 0
+	},
+	{
+		"_id" : "JMD",
+		"total" : 0
+	},
+	{
+		"_id" : "JOD",
+		"total" : 0
+	},
+	{
+		"_id" : "JPY",
+		"total" : 0
+	},
+	{
+		"_id" : "KES",
+		"total" : 0
+	},
+	{
+		"_id" : "KGS",
+		"total" : 0
+	},
+	{
+		"_id" : "KHR",
+		"total" : 0
+	},
+	{
+		"_id" : "KMF",
+		"total" : 0
+	},
+	{
+		"_id" : "KPW",
+		"total" : 0
+	},
+	{
+		"_id" : "KRW",
+		"total" : 0
+	},
+	{
+		"_id" : "KWD",
+		"total" : 0
+	},
+	{
+		"_id" : "KYD",
+		"total" : 0
+	},
+	{
+		"_id" : "KZT",
+		"total" : 0
+	},
+	{
+		"_id" : "LAK",
+		"total" : 0
+	},
+	{
+		"_id" : "LBP",
+		"total" : 0
+	},
+	{
+		"_id" : "LKR",
+		"total" : 0
+	},
+	{
+		"_id" : "LRD",
+		"total" : 0
+	},
+	{
+		"_id" : "LSL",
+		"total" : 0
+	},
+	{
+		"_id" : "LTL",
+		"total" : 0
+	},
+	{
+		"_id" : "LYD",
+		"total" : 0
+	},
+	{
+		"_id" : "MAD",
+		"total" : 0
+	},
+	{
+		"_id" : "MDL",
+		"total" : 0
+	},
+	{
+		"_id" : "MGA",
+		"total" : 0
+	},
+	{
+		"_id" : "MKD",
+		"total" : 0
+	},
+	{
+		"_id" : "MMK",
+		"total" : 0
+	},
+	{
+		"_id" : "MNT",
+		"total" : 0
+	},
+	{
+		"_id" : "MOP",
+		"total" : 0
+	},
+	{
+		"_id" : "MRO",
+		"total" : 0
+	},
+	{
+		"_id" : "MUR",
+		"total" : 0
+	},
+	{
+		"_id" : "MVR",
+		"total" : 0
+	},
+	{
+		"_id" : "MWK",
+		"total" : 0
+	},
+	{
+		"_id" : "MXN",
+		"total" : 0
+	},
+	{
+		"_id" : "MYR",
+		"total" : 0
+	},
+	{
+		"_id" : "MZN",
+		"total" : 0
+	},
+	{
+		"_id" : "NAD",
+		"total" : 0
+	},
+	{
+		"_id" : "NGN",
+		"total" : 0
+	},
+	{
+		"_id" : "NIO",
+		"total" : 0
+	},
+	{
+		"_id" : "NOK",
+		"total" : 0
+	},
+	{
+		"_id" : "NPR",
+		"total" : 0
+	},
+	{
+		"_id" : "NZD",
+		"total" : 0
+	},
+	{
+		"_id" : "OMR",
+		"total" : 0
+	},
+	{
+		"_id" : "PAB",
+		"total" : 0
+	},
+	{
+		"_id" : "PEN",
+		"total" : 0
+	},
+	{
+		"_id" : "PGK",
+		"total" : 0
+	},
+	{
+		"_id" : "PHP",
+		"total" : 0
+	},
+	{
+		"_id" : "PKR",
+		"total" : 0
+	},
+	{
+		"_id" : "PLN",
+		"total" : 0
+	},
+	{
+		"_id" : "PYG",
+		"total" : 0
+	},
+	{
+		"_id" : "QAR",
+		"total" : 0
+	},
+	{
+		"_id" : "RON",
+		"total" : 0
+	},
+	{
+		"_id" : "RSD",
+		"total" : 0
+	},
+	{
+		"_id" : "RUB",
+		"total" : 0
+	},
+	{
+		"_id" : "RWF",
+		"total" : 0
+	},
+	{
+		"_id" : "SAR",
+		"total" : 0
+	},
+	{
+		"_id" : "SBD",
+		"total" : 0
+	},
+	{
+		"_id" : "SCR",
+		"total" : 0
+	},
+	{
+		"_id" : "SDG",
+		"total" : 0
+	},
+	{
+		"_id" : "SEK",
+		"total" : 0
+	},
+	{
+		"_id" : "SGD",
+		"total" : 0
+	},
+	{
+		"_id" : "SLL",
+		"total" : 0
+	},
+	{
+		"_id" : "SOS",
+		"total" : 0
+	},
+	{
+		"_id" : "SRD",
+		"total" : 0
+	},
+	{
+		"_id" : "SSP",
+		"total" : 0
+	},
+	{
+		"_id" : "STD",
+		"total" : 0
+	},
+	{
+		"_id" : "SYP",
+		"total" : 0
+	},
+	{
+		"_id" : "SZL",
+		"total" : 0
+	},
+	{
+		"_id" : "THB",
+		"total" : 0
+	},
+	{
+		"_id" : "TJS",
+		"total" : 0
+	},
+	{
+		"_id" : "TMT",
+		"total" : 0
+	},
+	{
+		"_id" : "TND",
+		"total" : 0
+	},
+	{
+		"_id" : "TOP",
+		"total" : 0
+	},
+	{
+		"_id" : "TRY",
+		"total" : 0
+	},
+	{
+		"_id" : "TTD",
+		"total" : 0
+	},
+	{
+		"_id" : "TWD",
+		"total" : 0
+	},
+	{
+		"_id" : "TZS",
+		"total" : 0
+	},
+	{
+		"_id" : "UAH",
+		"total" : 0
+	},
+	{
+		"_id" : "UGX",
+		"total" : 0
+	},
+	{
+		"_id" : "USD",
+		"total" : 0
+	},
+	{
+		"_id" : "UYU",
+		"total" : 0
+	},
+	{
+		"_id" : "UZS",
+		"total" : 0
+	},
+	{
+		"_id" : "VEF",
+		"total" : 0
+	},
+	{
+		"_id" : "VND",
+		"total" : 0
+	},
+	{
+		"_id" : "VUV",
+		"total" : 0
+	},
+	{
+		"_id" : "WST",
+		"total" : 0
+	},
+	{
+		"_id" : "XAF",
+		"total" : 0
+	},
+	{
+		"_id" : "XCD",
+		"total" : 0
+	},
+	{
+		"_id" : "XOF",
+		"total" : 0
+	},
+	{
+		"_id" : "XPF",
+		"total" : 0
+	},
+	{
+		"_id" : "YER",
+		"total" : 0
+	},
+	{
+		"_id" : "ZAR",
+		"total" : 0
+	},
+	{
+		"_id" : "ZMW",
+		"total" : 0
+	},
+	{
+		"_id" : "ZWL",
+		"total" : 0
+	}
+]
